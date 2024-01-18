@@ -1,0 +1,39 @@
+* {
+padding: 0;
+margin: 0;
+list-style-type: none;
+text-decoration: none;
+box-sizing: border-box;
+}
+
+.nav {
+    display: flex;
+    font-size: 1rem;
+    color: blue;
+    background-color: brown;
+    justify-content: space-between;
+    padding: 1rem 16.7rem 1rem 16.7rem;
+    }
+ul{
+    display: flex;
+    gap: 50px ;
+}
+ui{
+    color: black;
+}
+
+ิิิิิิิbenner-container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding:  200px;
+    background-color: blueviolet;
+    }
+
+    .Signup .box {
+        padding: 50px 15%;
+    }
+
+
+    
+
